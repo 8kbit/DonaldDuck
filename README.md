@@ -1,7 +1,7 @@
 # Utkonos
 Тестовое задание для компании Утконос
 
-# Задание:
+# Task description:
 Create java application that will:
 
 Take as a command line parameter an URL http://evviva-adk.info/v/file_list.txt 
@@ -17,6 +17,10 @@ Required restrictions:
 Java 8
 Application must be configured to consume not more, than 200Mb of memory
 
-# Запуск
+# How to use
 1) mvn clean package
-2) java -jar -Xmx4m donald-duck-1.0-SNAPSHOT-jar-with-dependencies.jar http://evviva-adk.info/v/file_list.txt
+2) java -jar -Xmx4m target/donald-duck-1.0-SNAPSHOT-jar-with-dependencies.jar http://evviva-adk.info/v/file_list.txt
+
+---
+
+App requires less than 4Mb memory (-Xmx4m)
