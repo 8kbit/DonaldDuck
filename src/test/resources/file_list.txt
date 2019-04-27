@@ -1,0 +1,3 @@
+file:/C:\dev\donaldduck\src\test\resources\file1.7z,28fd486ed08c40d75bcdd6b749348692
+file:/C:\dev\donaldduck\src\test\resources\file2.7z,9b6d12dde0d6c8f30236b58765358ofa
+file:/C:\dev\donaldduck\src\test\resources\11.7z,cd9be49068112e2e6b128212680d3aab
