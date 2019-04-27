@@ -24,4 +24,5 @@ Application must be configured to consume not more, than 200Mb of memory
 ---
 
 App requires less than 4Mb memory (-Xmx4m)
+
 //TODO add logger and debug messages
