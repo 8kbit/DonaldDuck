@@ -1,6 +1,3 @@
-# Utkonos
-Тестовое задание для компании Утконос
-
 # Task description:
 Create java application that will:
 
